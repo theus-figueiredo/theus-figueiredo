@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **matheus.b.figueiredo@outlook.com**
 
-- ⚡ Fun fact: **I really love playing videogaes listening to Neil Degresse Tyson's podcast about the universe> I find that to be the prime way to have fun**
+- ⚡ Fun fact: **I really love playing videogaes listening to Neil Degresse Tyson's podcast about the universe, I find that to be the prime way to have fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
