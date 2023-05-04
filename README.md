@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a fullstack application to manage service orders, financial reports and HR control for a construction company**
 
-- 🌱 I’m currently learning **Java and Data Science with Python**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me: **matheus.b.figueiredo@outlook.com**
 
