@@ -7,7 +7,7 @@
 
 - 🔭 Trarablhando no momento em: **Uma aplicação fullstack para fazer manejamento de ordens de serviço para um negócio de construção civil**
 
-- 🌱 Aprendendo no momento: **PHP e Laravel**
+- 🌱 Aprendendo no momento: **C# e .NET**
 
 - 📫 Contato: **matheus.b.figueiredo@outlook.com**
 
