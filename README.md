@@ -1,5 +1,5 @@
 <h1 align="center"> Oi 👋, eu sou o Matheus</h1>
-<h3 align="center">Desenvolvedor fullstack com um carinho extra por backend</h3>
+<h3 align="center">Desenvolvedor backend </h3>
 <div align=center>
 <img align="center" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 </div>
