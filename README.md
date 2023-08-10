@@ -7,7 +7,7 @@
 
 - 🔭 Trarablhando no momento em: **Uma aplicação fullstack para fazer manejamento de ordens de serviço para um negócio de construção civil**
 
-- 🌱 Aprendendo no momento: **C# e .NET**
+- 🌱 Aprendendo no momento: **C#, .NET e ne preparando pra prova CLF-C01 da AWS**
 
 - 📫 Contato: **matheus.b.figueiredo@outlook.com**
 
