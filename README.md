@@ -11,7 +11,7 @@
 
 - 📫 Contato: **matheus.b.figueiredo@outlook.com**
 
-- ⚡ Curiosidade: **Sou viciado em ouvir podcasts sobre astrofísica enquanto programo, especialmente o Star Talk com o Neil Degresse Tyson**
+- ⚡ Curiosidade: **Adoro consumir conteúdos sobre astrofísica, Star Talk com o Neil Degresse Tyson é um "must" pra mim**
 
 <h3 align="left">Redes:</h3>
 <p align="left">
