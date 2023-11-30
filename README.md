@@ -1,11 +1,11 @@
 <h1 align="center"> Oi 👋, eu sou o Matheus</h1>
-<h3 align="center">Desenvolvedor backend </h3>
+<h3 align="center">Desenvolvedor de Software </h3>
 <div align=center>
 <img align="center" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 </div>
 
 
-- 🔭 Trarablhando no momento em: **Uma aplicação fullstack para fazer manejamento de ordens de serviço para um negócio de construção civil**
+- 🔭 Trarablhando no momento em: **Uma aplicação pessoal fullstack para controle de platinas e organização de backlog de games**
 
 - 🌱 Aprendendo no momento: **C#, .Net e Serviços em Cloud (AWS, Azure)**
 
