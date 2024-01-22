@@ -5,7 +5,7 @@
 </div>
 
 
-- 🔭 Trarablhando no momento em: **Uma aplicação pessoal fullstack para controle de platinas e organização de backlog de games**
+- 🔭 Trarablhando no momento em: **Uma aplicação de controle de investimentos imobiliários no Reino Unido**
 
 - 🌱 Aprendendo no momento: **C#, .Net e Serviços em Cloud (AWS, Azure)**
 
