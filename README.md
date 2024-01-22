@@ -11,7 +11,7 @@
 
 - 📫 Contato: **matheus.b.figueiredo@outlook.com**
 
-- ⚡ Curiosidade: **Adoro consumir conteúdos sobre astrofísica, Star Talk com o Neil Degresse Tyson é um "must" pra mim**
+- ⚡ Curiosidade: **Desde que comecei a trabalhar e estudar no computador perdi a capacidade de curtir PC gaming e virei consolista, quem diria...**
 
 <h3 align="left">Redes:</h3>
 <p align="left">
