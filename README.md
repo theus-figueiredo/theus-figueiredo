@@ -11,7 +11,6 @@
 
 - 📫 Contato: **matheus.b.figueiredo@outlook.com**
 
-- ⚡ Curiosidade: **Desde que comecei a trabalhar e estudar no computador perdi a capacidade de curtir PC gaming e virei consolista, quem diria...**
 
 <h3 align="left">Redes:</h3>
 <p align="left">
