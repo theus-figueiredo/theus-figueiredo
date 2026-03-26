@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Backend develper working with laravel and nestJs<br>🌱 I’m currently learning machine learning and LLMs<br>⚡ Fun fact, I can't eat coriander
+🔭 Backend develper working with laravel and Java<br>🌱 I’m currently working on a personal project about college applications<br>⚡ Fun fact, I can't eat coriander
 
 
 ## 🌐 Socials:
